@@ -15,3 +15,4 @@ function soma(a, b = 1) {
 
 console.log(soma(2, 3)); // 5
 console.log(soma(2)); // 2
+console.log(soma());
