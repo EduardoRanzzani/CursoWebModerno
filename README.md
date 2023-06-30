@@ -5,7 +5,7 @@ Repositório onde ficarão todas as aulas do curso WebModerno da Cod3r
 ## 01. Visão Geral do Curso
 Sobre este curso  
 *Domine Web com 15 Cursos + Projetos: Javascript Angular React Next Vue Node HTML CSS jQuery Bootstrap Webpack Gulp MySQL*  
-## 01. Visão Geral
+
 ## 02. Configuração do Ambiente
 ## 03. Fundamentos
 ## 04. Estruturas de controle
