@@ -1,0 +1,19 @@
+Tabela verdade
+
+V and V = V
+V and F = F
+F and V = F
+F and F = F
+
+V or V = V
+V or F = V
+F or V = V
+F or F = F
+
+V xor V = F
+V xor F = V
+F xor V = V
+F xor F = F;
+
+!V = F;
+!F = V;
